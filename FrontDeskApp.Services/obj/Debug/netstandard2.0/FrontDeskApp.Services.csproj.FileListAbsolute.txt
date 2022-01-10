@@ -1,0 +1,12 @@
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\bin\Debug\netstandard2.0\FrontDeskApp.Services.deps.json
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\bin\Debug\netstandard2.0\FrontDeskApp.Services.dll
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\bin\Debug\netstandard2.0\FrontDeskApp.Services.pdb
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\bin\Debug\netstandard2.0\FrontDeskApp.Core.dll
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\bin\Debug\netstandard2.0\FrontDeskApp.Core.pdb
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.csprojAssemblyReference.cache
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.AssemblyInfoInputs.cache
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.AssemblyInfo.cs
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.csproj.CoreCompileInputs.cache
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.csproj.CopyComplete
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.dll
+D:\projects\StorageFacility\FrontDeskApp\FrontDeskApp.Services\obj\Debug\netstandard2.0\FrontDeskApp.Services.pdb
